@@ -1,7 +1,7 @@
 # FAQ-interviewers
 FAQ para entrevistadores
 
-[Como você começou na area de desenvolmento?](#como-você-começou-na-area-de-desenvolmento)
+[Como você começou na area de desenvolvimento?](#como-você-começou-na-area-de-desenvolvimento)
 
 [Durante seu aprendizado oque mais te chamou atenção?](#durante-seu-aprendizado-oque-mais-te-chamou-atenção)
 
@@ -42,11 +42,11 @@ FAQ para entrevistadores
 
 [Avaliações Teóricas ou práticas?](#avaliações-teóricas-ou-práticas)
 
-# Como você começou na area de desenvolmento?
+# Como você começou na area de desenvolvimento?
 
 #### O inicio de tudo
 
-Me Interessei pela area em outubro de 2011 por indicação de um amigo da area, ele me ajudou com os primeiros passos e me dizia oque estudar. Comecei com html depois css, não sabia montar layouts direito oque me ajudou foi um curso que fiz em 2012 de Web Design Básico, já comecei a fazer paginas com layouts bem definidos, comecei a aprender php e mysql e javascript puro (nessa ordem) nesse mesmo ano. de 2012 até 2014 fiquei estudando desenvolvia pequenos MVP's so pra ver rodando, de tecnologias que estudei durante esse periodo foram, Jquery, framework Bootstrap, Experimentei um pouco de C, C++, Java mas preferi seguir na area de desenvolvimento WEB
+Me interessei pela area em outubro de 2011 por indicação de um amigo da area, ele me ajudou com os primeiros passos e me dizia oque estudar. Comecei com html depois css, não sabia montar layouts direito oque me ajudou foi um curso que fiz em 2012 de Web Design Básico, já comecei a fazer paginas com layouts bem definidos, comecei a aprender php e mysql e javascript puro (nessa ordem) nesse mesmo ano. de 2012 até 2014 fiquei estudando desenvolvia pequenos MVP's so pra ver rodando, de tecnologias que estudei durante esse periodo foram, Jquery, framework Bootstrap, Experimentei um pouco de C, C++, Java mas preferi seguir na area de desenvolvimento WEB
 
 # Durante seu aprendizado oque mais te chamou atenção?
 
