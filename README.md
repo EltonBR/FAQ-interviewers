@@ -38,6 +38,8 @@ FAQ para entrevistadores
 
 [No que você tem mais dificuldades nas entrevistas?](#no-que-você-tem-mais-dificuldades-nas-entrevistas)
 
+[De acordo com a resposta anterior você tem dificuldades em se comunicar no trabalho com seus colegas e gestor?](#de-acordo-com-a-resposta-anterior-você-tem-dificuldades-em-se-comunicar-no-trabalho-com-seus-colegas-e-gestor)
+
 [Avaliações Teóricas ou práticas?](#avaliações-teóricas-ou-práticas)
 
 # Como você começou na area de desenvolmento?
