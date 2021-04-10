@@ -117,6 +117,9 @@ Kamban, Scrum (atualmente)
 # No que você tem mais dificuldades nas entrevistas?
 Em posições em que estou sendo explicitamente avaliado/julgado tenho dificuldades em elaborar respostas de perguntas sobre mim ou perguntas técnicas, minha explicação fica com lacunas nas respostas
 
+# De acordo com a resposta anterior você tem dificuldades em se comunicar no trabalho com seus colegas e gestor?
+Não. Minha comunicação é otima, pois tenho o dominio da situação (previsibilidade nas perguntas, respostas pré-elaboradas). Em entrevistas a imprevisibilidade prejudica minha argumentação
+
 # Avaliações teóricas ou práticas?
 
 Na prática, a teoria é outra. *Talking is easy. show me the code*
