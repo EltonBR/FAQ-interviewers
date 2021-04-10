@@ -64,7 +64,7 @@ Como um programador Sênior que soluciona os problemas apresentados com facilida
 # Oque e mais importante para você no trabalho em equipe
 A colaboração entre os membros e a passagem de conhecimento entre os mesmos.
 
-# você se vê como especialista ou generalista?
+# Você se vê como especialista ou generalista?
 
 Me vejo um pouco como "especialista generalista", sou especialistas em algumas coisas, mas generalista em outras.
 
@@ -72,27 +72,27 @@ Me vejo um pouco como "especialista generalista", sou especialistas em algumas c
 
 Não, mas já fui tutor de programador junior
 
-# quando você esta estudando alguma tecnologia quais fontes você busca
+# Quando você esta estudando alguma tecnologia quais fontes você busca
 
 no site oficial da tecnologia tem tudo que você precisa. Mas quando começo a estudar uma nova tecnologia e sinto dificuldades, assisto curso em video para dar uma introdução no assunto até conseguir prosseguir somente com a documentação oficial, e leio exporadicamente posts sobre alguma feature especifica da tecnologia, como exemplos de uso.
 
-# quando ocorre um problema que você não consegue resolver oque você faz?
+# Quando ocorre um problema que você não consegue resolver oque você faz?
 
 leio as mensagens de erro (caso tenha) e faço code review para ver oque errei, busco detalhes na documentação oficial caso não consiga identificar. caso não consiga identificar o problema procuro em no stackoverflow e forúns em peço ajuda aos meus colegas. gosto de entender como ocorreu o erro e solucionar para que não ocorra novamente.
 
-# quais linguaguens/tecnologias que não gosta ou evitaria de trabalhar?
+# Quais linguaguens/tecnologias que não gosta ou evitaria de trabalhar?
 
 java, angularJS, wordpress
 
-# quais linguagens/tecnologias você tema mais conhecimento?
+# Quais linguagens/tecnologias você tema mais conhecimento?
 
 Javascript, Typescript, Angular, PHP, Angular Material, Boostrap, Laravel, nodejs
 
-# quais linguagens/tecnologias você acha que precisa estudar mais para dominar?
+# Quais linguagens/tecnologias você acha que precisa estudar mais para dominar?
 
 React, Redux, mongodb
 
-# já desenvolveu para IOS?
+# Já desenvolveu para IOS?
 NÃO
 
 # Já desenvolveu Aplicativos hibridos? 
