@@ -119,7 +119,7 @@ Tenho Dificuldades em elaborar respostas de perguntas sobre mim ou perguntas té
 
 # Avaliações teóricas ou práticas?
 
-Na prática, a teoria é outra *talking is easy. show me the code*
+Na prática, a teoria é outra. *Talking is easy. show me the code*
 
 
 
