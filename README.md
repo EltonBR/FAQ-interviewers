@@ -97,3 +97,8 @@ NÃO
 
 # Já desenvolveu Aplicativos hibridos? 
 SIM
+
+# Oque você faz na lá na empresa X
+
+[Minhas experiências Profissionais (Linkedin)](https://linkedin.com/in/ejss)
+ 
