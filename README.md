@@ -1,7 +1,7 @@
 # FAQ-interviewers
 FAQ para entrevistadores
 
-[Como você começou na de desenvolmento?](#como-você-começou-na-area-de-desenvolmento)
+[Como você começou na area de desenvolmento?](#como-você-começou-na-area-de-desenvolmento)
 
 [Durante seu aprendizado oque mais te chamou atenção?](#durante-seu-aprendizado-oque-mais-te-chamou-atenção)
 
