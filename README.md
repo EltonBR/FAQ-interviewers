@@ -31,14 +31,14 @@ FAQ para entrevistadores
 
 [Já desenvolveu Aplicativos hibridos?](#já-desenvolveu-aplicativos-hibridos)
 
-[Avaliações Teóricas ou práticas?](#avaliações-teóricas-ou-práticas)
-
 
 [Oque você faz na lá na empresa X](#oque-você-faz-na-lá-na-empresa-x)
 
 [Quais metodologias agéis voce já trabalhou?](#quais-metodologias-agéis-voce-já-trabalhou)
 
 [No que você tem mais dificuldades nas entrevistas?](#no-que-você-tem-mais-dificuldades-nas-entrevistas)
+
+[Avaliações Teóricas ou práticas?](#avaliações-teóricas-ou-práticas)
 
 # Como você começou na area de desenvolmento?
 
