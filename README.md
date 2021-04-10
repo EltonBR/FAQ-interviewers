@@ -31,6 +31,15 @@ FAQ para entrevistadores
 
 [Já desenvolveu Aplicativos hibridos?](#já-desenvolveu-aplicativos-hibridos)
 
+[Avaliações Teóricas ou práticas?](#avaliações-teóricas-ou-práticas)
+
+
+[Oque você faz na lá na empresa X](#oque-você-faz-na-lá-na-empresa-x)
+
+[Quais metodologias agéis voce já trabalhou?](#quais-metodologias-agéis-voce-já-trabalhou)
+
+[No que você tem mais dificuldades nas entrevistas?](#no-que-você-tem-mais-dificuldades-nas-entrevistas)
+
 # Como você começou na area de desenvolmento?
 
 #### O inicio de tudo
@@ -101,4 +110,17 @@ SIM
 # Oque você faz na lá na empresa X
 
 [Minhas experiências Profissionais (Linkedin)](https://linkedin.com/in/ejss)
+
+# Quais metodologias agéis voce já trabalhou? 
+Kamban, Scrum (atualmente)
+
+# No que você tem mais dificuldades nas entrevistas?
+Tenho Dificuldades em elaborar respostas de perguntas sobre mim ou perguntas técnicas, minha explicação fica com lacunas nas respostas
+
+# Avaliações teóricas ou práticas?
+
+Na prática, a teoria é outra *talking is easy. show me the code*
+
+
+
  
