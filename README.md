@@ -115,7 +115,7 @@ SIM
 Kamban, Scrum (atualmente)
 
 # No que você tem mais dificuldades nas entrevistas?
-Tenho Dificuldades em elaborar respostas de perguntas sobre mim ou perguntas técnicas, minha explicação fica com lacunas nas respostas
+Em posições em que estou sendo explicitamente avaliado/julgado tenho dificuldades em elaborar respostas de perguntas sobre mim ou perguntas técnicas, minha explicação fica com lacunas nas respostas
 
 # Avaliações teóricas ou práticas?
 
