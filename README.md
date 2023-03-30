@@ -70,10 +70,10 @@ Minha primeira experiência profissional foi no final de 2014 na dominioveloz co
 **Indra PLENO:** Angular, Jasmine, Typescript, C# .Net Core, SQL Server, 
 
 # Como você se vê daqui a 5 anos?
-Como um programador Sênior que soluciona os problemas apresentados com facilidade e passa conhecimentos para os colegas menos experiêntes
+Como um programador melhor que soluciona os problemas apresentados com facilidade e passa conhecimentos para os colegas menos experiêntes, e trabalhando com Flutter 
 
 # Oque e mais importante para você no trabalho em equipe
-A colaboração entre os membros e a passagem de conhecimento entre os mesmos.
+A colaboração entre os membros e a passagem de conhecimento entre os integrantes do time.
 
 # Você se vê como especialista ou generalista?
 
